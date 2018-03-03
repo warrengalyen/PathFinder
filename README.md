@@ -1,4 +1,7 @@
 # PathFinding
+
+![](screenshot.png)
+
 C# Windows Forms application demonstrating several common path finding algorithms traversing a 2D maze.
 
 Uses Dijkstra, A*, Breadth First search, and Depth First search to find a path from A to B. The cells of the maze are randomly weighted so that the direct path is not always the cheapest.
